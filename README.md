@@ -6,6 +6,11 @@
 * 下载nodejs环境，参考[nodejs](https://nodejs.org/en/download)
 * 下载向量数据库[milvus](https://milvus.io/docs/install_milvus.md)
 
+### openai key
+* 申请openai key，参考[openai](https://beta.openai.com/)
+* 将openai key填入.env.customize中
+* 将.env.customize改名为.env
+
 ### 构建
 ```
 <!-- 下载 -->
